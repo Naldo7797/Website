@@ -1,0 +1,56 @@
+html{
+    max-width: 100%;
+    max-height: 200%;
+}
+
+body{background-color: lavender;}
+
+#mountainlandscape{
+    height: 140px;
+    width: 1920px;
+    margin-left: -8px;
+}
+#div_topmenu{
+    overflow:hidden;
+    width:100.9%;
+    background-color: rgb(49, 49, 49);
+    margin-top: -5px;
+    margin-left: -8px;
+}
+
+.a_menu{
+    float:left;
+    box-sizing: border-box;
+    padding:16px 46px;
+    font-family:'Courier New', Courier, monospace;
+    font-size: 20px;
+    color: lavender;
+    text-decoration:none;
+}
+
+.a_menu:hover{
+    background-color: rgba(230, 230, 250, 0.363);
+}
+
+#a_programming{
+    background-color: rgb(115,134,120);
+}
+
+#p_maintext{
+    width: 1500px;
+    margin-left: 200px;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 32px;
+}
+
+.side_banner{
+    position: fixed;
+    left: 0;
+    height:1024px;
+    width:128px;
+    margin-bottom:-8px;
+    background-image: url('evabanner128x1024.png');
+}
+
+
+
